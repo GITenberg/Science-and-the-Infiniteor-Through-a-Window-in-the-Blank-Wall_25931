@@ -1,0 +1,27 @@
+_repo: Science-and-the-Infiniteor-Through-a-Window-in-the-Blank-Wall_25931
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Klein, Sydney T. (Sydney Turner)
+    alias: Klein, Sydney Turner
+    birthdate: 1853
+    deathdate: 1934
+    gutenberg_agent_id: '31674'
+    url: http://www.gutenberg.org/2009/agents/31674
+description: ''
+gutenberg_issued: '2008-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25931'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religion and science'
+- !lcc 'BL'
+title: Science and the Infinite; or, Through a Window in the Blank Wall
+url: http://www.gutenberg.org/ebooks/25931
