@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '31674'
     url: http://www.gutenberg.org/2009/agents/31674
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25931#Science-and-the-Infiniteor-Through-a-Window-in-the-Blank-Wall
 gutenberg_issued: '2008-06-29'
 gutenberg_type: Text
 identifiers:
